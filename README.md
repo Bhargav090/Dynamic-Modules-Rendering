@@ -1,16 +1,30 @@
-# dynamicrendering
+```markdown
+# Dynamic Modules Rendering
 
-A new Flutter project.
+Dynamic Modules Rendering is a Flutter application that dynamically renders tasks, media, and interactive features such as audio playback and recording. This project demonstrates flexible content management and user interaction.
 
-## Getting Started
+## Features
+- **Dynamic Content Rendering:** Load and render tasks with text, images, and audio dynamically.
+- **Audio Playback:** Play task-related audio files directly within the app.
+- **Audio Recording:** Record user responses.
+- **Interactive User Interface:** Submit and manage task responses in an intuitive way.
+- **Cross-Platform Support:** Works seamlessly on Android, iOS.
 
-This project is a starting point for a Flutter application.
+## How to Use
+1. Clone the repository: `git clone https://github.com/Bhargav090/Dynamic-Modules-Rendering.git && cd dynamicrendering`
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Packages Used
+- [audioplayers](https://pub.dev/packages/audioplayers): For audio playback.
+- [flutter_sound](https://pub.dev/packages/flutter_sound): For audio recording.
+- [permission_handler](https://pub.dev/packages/permission_handler): To manage runtime permissions for microphone access.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Compatibility
+- **Platforms:** Android, iOS.
+- **Flutter Version:** Requires Flutter 3.0.0 or later.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Support
+If you have any questions or run into issues, feel free to [open an issue](https://github.com/Bhargav090).
+
+```
