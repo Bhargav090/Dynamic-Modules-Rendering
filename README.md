@@ -1,4 +1,3 @@
-```markdown
 # Dynamic Modules Rendering
 
 Dynamic Modules Rendering is a Flutter application that dynamically renders tasks, media, and interactive features such as audio playback and recording. This project demonstrates flexible content management and user interaction.
@@ -26,5 +25,3 @@ Dynamic Modules Rendering is a Flutter application that dynamically renders task
 
 ## Support
 If you have any questions or run into issues, feel free to [open an issue](https://github.com/Bhargav090).
-
-```
