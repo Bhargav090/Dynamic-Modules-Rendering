@@ -1,0 +1,144 @@
+{
+    "modules": [
+      {
+        "name": "Basic Speech Course",
+        "image":"https://www.stopfail.com/wp-content/uploads/2023/09/speak-english.jpg",
+        "cakes": [
+          {
+            "type": "text",
+            "task": "Read any freedom fighter biography and write a summary."
+          },
+          {
+            "type": "image",
+            "task": "Look at the image of the speaker and describe their posture.",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*b2EH1s43wti_lK2jLxE1MA.jpeg"
+          },
+          {
+            "type": "audio",
+            "task": "Listen to the speech clip and identify the key points.",
+            "audio_url": "https://d38nvwmjovqyq6.cloudfront.net/va90web25003/companions/ws_smith/1%20Comparison%20Of%20Vernacular%20And%20Refined%20Speech.mp3"
+          },
+          {
+            "type": "text",
+            "task": "Write a short speech on the topic 'The Importance of Communication'."
+          },
+          {
+            "type": "audio",
+            "task": "Record your response to a practice speech question.",
+            "audio_url": "https://d38nvwmjovqyq6.cloudfront.net/va90web25003/companions/ws_smith/1%20Comparison%20Of%20Vernacular%20And%20Refined%20Speech.mp3"
+          }
+        ]
+      },
+      {
+        "name": "Basic Grammar Course",
+         "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+        "cakes": [
+          {
+            "type": "text",
+            "task": "Fill in the blank: 'She ____ to the store.'"
+          },
+          {
+            "type": "text",
+            "task": "Correct the following sentence: 'He don't like coffee.'"
+          },
+          {
+            "type": "image",
+            "task": "Look at the image and write what you understand by seeing it.",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*b2EH1s43wti_lK2jLxE1MA.jpeg"
+          },
+          {
+            "type": "audio",
+            "task": "Listen to the sentence and choose the correct grammatical form.",
+            "audio_url": "https://d38nvwmjovqyq6.cloudfront.net/va90web25003/companions/ws_smith/1%20Comparison%20Of%20Vernacular%20And%20Refined%20Speech.mp3"
+          },
+          {
+            "type": "text",
+            "task": "Write 5 sentences using past perfect tense."
+          },
+          {
+            "type": "audio",
+            "task": "Listen to the passage and identify all the grammatical mistakes.",
+            "audio_url": "https://d38nvwmjovqyq6.cloudfront.net/va90web25003/companions/ws_smith/1%20Comparison%20Of%20Vernacular%20And%20Refined%20Speech.mp3"
+          }
+        ]
+      },
+      {
+        "name": "Advanced Sentence Course",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXMm3_g1ViuL_0HCTne1pRBh9mvzVxhi9xQx9z69swwKps9BUKudMQ9U7aIXiOqXN7nH8&usqp=CAU",
+        "cakes": [
+          {
+            "type": "text",
+            "task": "Complete the sentence: 'Although it was raining, ____ went for a walk.'"
+          },
+          {
+            "type": "text",
+            "task": "Combine the two sentences: 'I like tea. I don't like coffee.'"
+          },
+          {
+            "type": "audio",
+            "task": "Listen to the audio and form complex sentences based on the information.",
+            "audio_url": "https://d38nvwmjovqyq6.cloudfront.net/va90web25003/companions/ws_smith/1%20Comparison%20Of%20Vernacular%20And%20Refined%20Speech.mp3"
+          },
+          {
+            "type": "text",
+            "task": "Rearrange the words to form a correct sentence: 'dog the the house inside is'."
+          },
+          {
+            "type": "image",
+            "task": "Look at the image and create a complex sentence describing the scene.",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*b2EH1s43wti_lK2jLxE1MA.jpeg"
+          }
+        ]
+      },
+      {
+        "name": "English Vocabulary Building",
+          "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4",
+        "cakes": [
+          {
+            "type": "text",
+            "task": "Write down 5 new words you learned today and use them in sentences."
+          },
+          {
+            "type": "audio",
+            "task": "Listen to the audio of a conversation and note down unfamiliar words.",
+            "audio_url": "https://d38nvwmjovqyq6.cloudfront.net/va90web25003/companions/ws_smith/1%20Comparison%20Of%20Vernacular%20And%20Refined%20Speech.mp3"
+          },
+          {
+            "type": "image",
+            "task": "Look at the image of various objects and name them in English.",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*b2EH1s43wti_lK2jLxE1MA.jpeg"
+          },
+          {
+            "type": "text",
+            "task": "Choose the correct synonym for the word 'quick': [fast, slow, tall]."
+          }
+        ]
+      },
+      {
+        "name": "Pronunciation Practice",
+          "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+        "cakes": [
+          {
+            "type": "audio",
+            "task": "Listen to the pronunciation of the word 'schedule' and repeat it.",
+            "audio_url": "https://d38nvwmjovqyq6.cloudfront.net/va90web25003/companions/ws_smith/1%20Comparison%20Of%20Vernacular%20And%20Refined%20Speech.mp3"
+          },
+          {
+            "type": "audio",
+            "task": "Record yourself pronouncing the word 'comfortable' and compare it with the audio.",
+            "audio_url": "https://d38nvwmjovqyq6.cloudfront.net/va90web25003/companions/ws_smith/1%20Comparison%20Of%20Vernacular%20And%20Refined%20Speech.mp3"
+          },
+          {
+            "type": "image",
+            "task": "Look at the image showing tongue position and try to mimic the sound.",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*b2EH1s43wti_lK2jLxE1MA.jpeg"
+          },
+          {
+            "type": "text",
+            "task": "Write down the list of words with difficult pronunciations and practice them."
+          }
+        ]
+      }
+    ]
+  }
+  
